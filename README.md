@@ -12,4 +12,4 @@ Service descriptions
 Installing
 ----------
 
-Place both the `.conf` files in `/etc/init/`. Restart the computer, or run `start autoimport-start-listener`
+Place both the `.conf` files in `/etc/init/`. Restart the computer, or run `start autoimport-start-listener`. You will need to have `file-bridge` installed, which is available at https://github.com/Lucretiel/file-bridge/blob/master/file-bridge.conf
